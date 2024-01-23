@@ -2,6 +2,7 @@ import os
 
 def run_data_pull():
     os.system('python Stats_Data_Pull.py')
+    os.system('python Pull_Todays_Games.py')
 
 def run_data_preparation():
     os.system('python Data_Prep.py')
@@ -10,7 +11,7 @@ def run_model_training():
     os.system('python Model_Training.py')
 
 def run_model_prediction():
-    os.system('python Model_Prediction.py')
+    os.system('python Evaluate_Model.py')
 
 def main():
     print("Running Data Pull...")
