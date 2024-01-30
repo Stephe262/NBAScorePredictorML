@@ -9,9 +9,6 @@ ML model for predicting NBA player and team points, leveraging advanced analytic
 - Fantasy sports enthusiasts seeking data-backed predictions, on who to start, sit, trade, and/or acquire from waivers.
 - Companies specializing in sports betting or predictive modeling for sports events.
 
-## Conclusion about Insights and Model Performance
-
-
 ## Model Performance and Insights
 
 ### Point Prediction Accuracy
